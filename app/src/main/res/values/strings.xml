@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android Pagination</string>
+    <string name="NO_INTERNET">Check Internet Connection!</string>
+    <string name="dialog_error_title">Something went wrong!</string>
+    <string name="dialog_action_ok">OK</string>
+</resources>
